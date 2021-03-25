@@ -1,2 +1,2 @@
 # Data-Mining-and-Machine-Learning
-Machine learning algorithms to predict accident severity, house prices and student exam scores
+Completed this project as a part of my curriculum. Implemented different Machine learning algorithms such as Artificial Neural Network, XGBoost, Random Forest, Support Vector Machine, Naive Bayes, Multiple Linear Regression, Logistic Regression, Ridge Regression, Lasso Regression on large datasets to predict an accident severity, house price, and student exam score. Used Python, R, and MySQL for developing the model.
