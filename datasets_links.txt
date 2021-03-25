@@ -1,0 +1,3 @@
+ACCIDENT DATASET- https://data.gov.uk/dataset/cb7ae6f0-4be6-4935-9277-47e5ce24a11f/road-safety-data
+HOUSE PRICING DATASET - https://www.kaggle.com/harlfoxem/housesalesprediction
+OULAD Dataset (Student Marks) - https://analyse.kmi.open.ac.uk/open_dataset
